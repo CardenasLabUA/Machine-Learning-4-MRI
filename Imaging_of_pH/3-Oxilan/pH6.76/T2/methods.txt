@@ -1,0 +1,4 @@
+The T2 relaxation time for all samples was estimated using a MSME MRI protocol with the following parameters:  TR= 1 s; TE= 10 ms; echoes = 50; slice thickness= 1.0 mm; FOV= 4.0 x 4.0 cm; linear encoding order; 128 x 128 resolution matrix; 0.23 mm2 in-plane spatial resolution; 90° hermite excitation pulse for 2.7 ms duration with 2700 Hz bandwidth; and 180° hermite refocusing pulse for 1.71 ms duration with 2000 Hz bandwidth. Using equation 3, we analyzed and extracted the T2 relaxation time.
+        ?(3)      M?_z (TE)= M_z (e^(-TE/T_2 ))
+
+
