@@ -1,3 +1,7 @@
+# jupyter
+.ipynb_checkpoints
+__pycache__
+
 # Compiled Object files
 *.slo
 *.lo
@@ -27,3 +31,7 @@
 *.exe
 *.out
 *.app
+
+Infection_vs_Inflammation/Code/Hola.csv
+
+Infection_vs_Inflammation/Code/Hola2.csv
