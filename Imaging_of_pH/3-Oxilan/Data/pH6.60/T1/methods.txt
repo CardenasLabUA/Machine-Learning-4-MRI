@@ -1,0 +1,4 @@
+We measured the T1 relaxation time of each region of interest (ROI) by acquiring a  series  of  spin-echo  MR  images  and  variable  TR with  a RARE MRI protocol  using the following  parameters:  TR=  150, 300, 350, 500, 700, 900, 1200, 2000, 3000, 6000, and 10000 ms; TE= 9.07 ms; NEX=1; RARE factor= 2; slice thickness= 1.0 mm; FOV= 4.0 x 4.0 cm; linear encoding order; 128 x 128 resolution matrix; .23  mm2  in-plane  spatial  resolution;  90°   hermite  excitation  pulse for  2.7  ms duration with 2700 Hz bandwidth; and 180°  hermite refocusing  pulse for  1.71  ms duration with 2000 Hz bandwidth. We analyzed the T1 relaxation time using the following equation:
+        ?(2)      M?_z (TR)= M_z (1-e^(-TR/T_1 )  )
+
+
