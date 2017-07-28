@@ -1,0 +1,13 @@
+##TITLE=Parameter List
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=pacosta
+$$ Sat Apr  1 17:39:31 2017 MST (UT-7h)  pacosta
+$$ /opt/PV51/data/pacosta/nmr/Acosta_20170401_Isovue_real.GM1/AdjResult/2.16.756.5.5.100.4167689927.28792.1491093530.95/result.jcamp
+##$ACQ_BF=( 1 )
+(<1H>, 300.243576176694)
+##$PVM_TuneShimFreqOffs=( 1 )
+-144.820253705585
+##$PVM_StudyShim=(0, 599, 0, 0, 0, 288, 147, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+##END=

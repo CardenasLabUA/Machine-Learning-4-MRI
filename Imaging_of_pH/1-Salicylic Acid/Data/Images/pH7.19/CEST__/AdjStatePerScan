@@ -1,0 +1,25 @@
+##TITLE=Parameter List
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=acosta
+$$ Fri Aug 12 12:29:13 2016 MST (UT-7h)  acosta
+$$ /opt/PV51/data/acosta/nmr/Acosta_20160811_SA_pH719.D11/5/AdjStatePerScan
+##$AdjScanStateCompleted=Yes
+##$AdjScanStateAdjName=( 1, 128 )
+<RCVR_Standard>
+##$AdjScanStateCategory=( 1 )
+RCVR
+##$AdjScanStateAdjustPars=( 1, 1024 )
+<RG>
+##$AdjScanStateTime=( 1, 21 )
+<12:28:54 12 Aug 2016>
+##$AdjScanStateExpno=( 1 )
+5
+##$AdjScanStateState=( 1 )
+adj_successful
+##$AdjScanStateResultId=( 1, 65 )
+<>
+##$AdjScanStateMethod=( 1, 128 )
+<cESTFISP_dualpower>
+##END=

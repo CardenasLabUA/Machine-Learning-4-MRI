@@ -1,0 +1,25 @@
+##TITLE=Parameter List
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=pacosta
+$$ Wed Dec 21 09:03:45 2016 MST (UT-7h)  pacosta
+$$ /opt/PV51/data/pacosta/nmr/Acosta_20162112_Isovue_pH719.F91/5/AdjStatePerScan
+##$AdjScanStateCompleted=Yes
+##$AdjScanStateAdjName=( 1, 128 )
+<RCVR_Standard>
+##$AdjScanStateCategory=( 1 )
+RCVR
+##$AdjScanStateAdjustPars=( 1, 1024 )
+<RG>
+##$AdjScanStateTime=( 1, 21 )
+<09:02:27 21 Dec 2016>
+##$AdjScanStateExpno=( 1 )
+5
+##$AdjScanStateState=( 1 )
+adj_successful
+##$AdjScanStateResultId=( 1, 65 )
+<>
+##$AdjScanStateMethod=( 1, 128 )
+<RAREVTR>
+##END=

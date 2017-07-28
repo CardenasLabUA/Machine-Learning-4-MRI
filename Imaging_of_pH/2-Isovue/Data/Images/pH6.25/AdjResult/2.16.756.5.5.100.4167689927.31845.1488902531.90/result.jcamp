@@ -1,0 +1,14 @@
+##TITLE=Parameter List
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=jdegrand
+$$ Tue Mar  7 09:02:47 2017 MST (UT-7h)  jdegrand
+$$ /opt/PV51/data/jdegrand/nmr/degrandchamp_20170131_isovue_ph625.FO1/AdjResult/2.16.756.5.5.100.4167689927.31845.1488902531.90/result.jcamp
+##$ACQ_BF=( 1 )
+(<1H>, 300.244145350271)
+##$PVM_TuneShimFreqOffs=( 1 )
+-3.96581452619393
+##$PVM_StudyShim=(0, 865, 0, 0, 0, -183, 2192, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+0)
+##END=

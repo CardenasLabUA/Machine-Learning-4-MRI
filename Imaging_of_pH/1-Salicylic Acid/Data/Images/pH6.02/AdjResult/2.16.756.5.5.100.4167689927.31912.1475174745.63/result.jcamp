@@ -1,0 +1,13 @@
+##TITLE=Parameter List
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=acosta
+$$ Thu Sep 29 11:46:21 2016 MST (UT-7h)  acosta
+$$ /opt/PV51/data/acosta/nmr/Acosta_20162916_SA_pH602.DO1/AdjResult/2.16.756.5.5.100.4167689927.31912.1475174745.63/result.jcamp
+##$ACQ_BF=( 1 )
+(<1H>, 300.243679193594)
+##$PVM_TuneShimFreqOffs=( 1 )
+2.42074575678708
+##$PVM_StudyShim=(0, 210, 0, 0, 0, 541, -140, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+##END=

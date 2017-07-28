@@ -1,0 +1,30 @@
+##TITLE=Parameter List
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=acosta
+$$ Thu Sep 29 14:09:44 2016 MST (UT-7h)  acosta
+$$ /opt/PV51/data/acosta/nmr/Acosta_20162916_SA_pH602.DO1/4/pdata/1/roi
+##$ROI_version=( 20 )
+<Version 2.0>
+##$ROI_n=9
+##$ROI_par=( 9 )
+(RoiCircle, <Roi_1>, 4, 0, 0, -1) (RoiCircle, <Roi_2>, 4, 0, 0, -1) (
+RoiCircle, <Roi_3>, 4, 0, 0, -1) (RoiCircle, <Roi_4>, 4, 0, 0, -1) (RoiCircle,
+ <Roi_5>, 4, 0, 0, -1) (RoiCircle, <Roi_6>, 4, 0, 0, -1) (RoiCircle, <Roi_7>, 
+4, 0, 0, -1) (RoiCircle, <Roi_8>, 4, 0, 0, -1) (RoiCircle, <Roi_9>, 4, 0, 0, 
+-1)
+##$ROI_dpar=( 36 )
+0.317 0.31 0.052 0.052 0.483 0.332 0.052 0.052 0.636 0.324 0.052 0.052 0.319 
+0.492 0.052 0.052 0.479 0.497 0.052 0.052 0.643 0.493 0.052 0.052 0.324 0.657 
+0.052 0.052 0.484 0.657 0.052 0.052 0.65 0.654 0.052 0.052
+##$ROI_dpar_off=( 9 )
+0 4 8 12 16 20 24 28 32
+##$ROI_cpar_off=( 9 )
+0 0 0 0 0 0 0 0 0
+##$ROI_ndx=8
+##$ROI_dpar_ndx=( 4 )
+0.65 0.654 0.052 0.052
+##$ROI_cpar_ndx=( 1 )
+<>
+##END=

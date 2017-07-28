@@ -1,0 +1,43 @@
+##TITLE=Parameter List
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=jdegrand
+$$ Mon Mar 27 20:03:26 2017 MST (UT-7h)  jdegrand
+$$ /opt/PV51/data/jdegrand/nmr/degrandchamp_20170327_oxilan_pH719.GH1/AdjStatePerStudy
+##$AdjStudyStateCompleted=Yes
+##$AdjStudyStateResetNdx=3
+##$AdjStudyStateAdjName=( 6, 128 )
+<FREQ_Standard> <SHIM_Standard> <TRANSM_Standard> <FREQ_Standard> <
+SHIM_Standard> <TRANSM_Standard>
+##$AdjStudyStateCategory=( 6 )
+FREQ SHIM TRANSM FREQ SHIM TRANSM
+##$AdjStudyStateAdjustPars=( 6, 1024 )
+<ACQ_BF> <PVM_StudyShim> <PVM_StudyRefAtt> <ACQ_BF> <PVM_StudyShim> <
+PVM_StudyRefAtt>
+##$AdjStudyStateTime=( 6, 21 )
+<19:15:55 27 Mar 2017> <19:16:11 27 Mar 2017> <19:16:41 27 Mar 2017> <
+19:23:41 27 Mar 2017> <19:23:58 27 Mar 2017> <19:24:28 27 Mar 2017>
+##$AdjStudyStateExpno=( 6 )
+1 1 1 1 1 1
+##$AdjStudyStateState=( 6 )
+adj_successful adj_successful adj_successful adj_successful adj_successful 
+adj_successful
+##$AdjStudyStateResultId=( 6, 65 )
+<> <2.16.756.5.5.100.4167689927.1934.1490667355.125> <
+2.16.756.5.5.100.4167689927.1934.1490667355.126> <> <
+2.16.756.5.5.100.4167689927.1934.1490667821.152> <
+2.16.756.5.5.100.4167689927.1934.1490667821.153>
+##$AdjStudyStateMethod=( 6, 128 )
+<AdjSf> <AdjShim> <AdjRefG> <AdjSf> <AdjShim> <AdjRefG>
+##$AdjStudyStateMethodContext=( 6, 128 )
+<> <> <> <> <> <>
+##$AdjStudyStateHwChainNdxs=( 6 )
+(0, 0) (0, 1) (1, 1) (2, 0) (2, 1) (3, 1)
+##$AdjStudyStateHwChains=( 4 )
+((SHIM_CHAIN, -1), <SHIM_BGA12S.399289>) ((TRANS_CHAIN, -2), <
+Default_QuadTransceiver_1H_1000W -2 2 2 2 1 1 1H  1168442285>) ((SHIM_CHAIN, 
+-1), <SHIM_BGA12S.399289>) ((TRANS_CHAIN, -2), <
+Default_QuadTransceiver_1H_1000W -2 2 2 2 1 1 1H  1168442285>)
+##$AdjStudyListConfigTime=1190094339
+##END=

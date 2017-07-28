@@ -1,0 +1,47 @@
+##TITLE=Parameter List
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=pacosta
+$$ Wed Jan 18 19:39:44 2017 MST (UT-7h)  pacosta
+$$ /opt/PV51/data/pacosta/nmr/Acosta_20161801_Isovue_pH677.FB1/AdjStatePerStudy
+##$AdjStudyStateCompleted=Yes
+##$AdjStudyStateResetNdx=6
+##$AdjStudyStateAdjName=( 9, 128 )
+<FREQ_Standard> <SHIM_Standard> <TRANSM_Standard> <FREQ_Standard> <
+SHIM_Standard> <TRANSM_Standard> <FREQ_Standard> <SHIM_Standard> <
+TRANSM_Standard>
+##$AdjStudyStateCategory=( 9 )
+FREQ SHIM TRANSM FREQ SHIM TRANSM FREQ SHIM TRANSM
+##$AdjStudyStateAdjustPars=( 9, 1024 )
+<ACQ_BF> <PVM_StudyShim> <PVM_StudyRefAtt> <ACQ_BF> <PVM_StudyShim> <
+PVM_StudyRefAtt> <ACQ_BF> <PVM_StudyShim> <PVM_StudyRefAtt>
+##$AdjStudyStateTime=( 9, 21 )
+<18:43:13 18 Jan 2017> <18:43:26 18 Jan 2017> <18:43:55 18 Jan 2017> <
+18:47:01 18 Jan 2017> <18:47:14 18 Jan 2017> <18:47:43 18 Jan 2017> <18:59:16 
+18 Jan 2017> <18:59:28 18 Jan 2017> <18:59:57 18 Jan 2017>
+##$AdjStudyStateExpno=( 9 )
+1 1 1 1 1 1 1 1 1
+##$AdjStudyStateState=( 9 )
+adj_successful adj_successful adj_failed adj_successful adj_successful 
+adj_failed adj_successful adj_successful adj_successful
+##$AdjStudyStateResultId=( 9, 65 )
+<> <2.16.756.5.5.100.4167689927.1318.1484790193.74> <
+2.16.756.5.5.100.4167689927.1318.1484790193.75> <> <
+2.16.756.5.5.100.4167689927.1318.1484790421.93> <
+2.16.756.5.5.100.4167689927.1318.1484790421.94> <> <
+2.16.756.5.5.100.4167689927.1318.1484791156.115> <
+2.16.756.5.5.100.4167689927.1318.1484791156.116>
+##$AdjStudyStateMethod=( 9, 128 )
+<AdjSf> <AdjShim> <AdjRefG> <AdjSf> <AdjShim> <AdjRefG> <AdjSf> <AdjShim> <
+AdjRefG>
+##$AdjStudyStateMethodContext=( 9, 128 )
+<> <> <> <> <> <> <> <> <>
+##$AdjStudyStateHwChainNdxs=( 9 )
+(0, 0) (0, 1) (1, 0) (1, 0) (1, 1) (2, 0) (2, 0) (2, 1) (3, 1)
+##$AdjStudyStateHwChains=( 4 )
+((SHIM_CHAIN, -1), <SHIM_BGA12S.399289>) ((SHIM_CHAIN, -1), <
+SHIM_BGA12S.399289>) ((SHIM_CHAIN, -1), <SHIM_BGA12S.399289>) ((TRANS_CHAIN, 
+-2), <Default_Transceiver_1H_1000W -2 2 2 2 1 1 1H  1168442285>)
+##$AdjStudyListConfigTime=1190094339
+##END=

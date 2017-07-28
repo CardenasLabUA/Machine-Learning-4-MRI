@@ -1,0 +1,15 @@
+##TITLE=Parameter List
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=acosta
+$$ Fri Jul 29 12:06:28 2016 MST (UT-7h)  acosta
+$$ /opt/PV51/data/acosta/nmr/DeGrandChamp_20160729_SA_pH740.CO1/AdjResult/2.16.756.5.5.100.4167689927.7393.1469819127.68/result.jcamp
+##$PVM_RefAtt=( 2 )
+(<1H>, 21.377984321988, <Default_Transceiver_1H_1000W -2 2 2 2 1 1 1H  
+1168442285>) (<1H>, 23.6136890718154, <Default_QuadTransceiver_1H_1000W -2 2 
+2 2 1 1 1H  1168442285>)
+##$PVM_DeriveGains=Yes
+##$PVM_StudyRefAtt=(<1H>, 21.377984321988, <Adj by AdjRefG (protocol ADJ_REFG)
+>)
+##END=

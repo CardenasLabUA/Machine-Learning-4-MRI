@@ -1,0 +1,34 @@
+##TITLE=Parameter List
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=jdegrand
+$$ Tue Mar  7 09:03:08 2017 MST (UT-7h)  jdegrand
+$$ /opt/PV51/data/jdegrand/nmr/degrandchamp_20170131_isovue_ph625.FO1/AdjStatePerStudy
+##$AdjStudyStateCompleted=No
+##$AdjStudyStateResetNdx=0
+##$AdjStudyStateAdjName=( 3, 128 )
+<FREQ_Standard> <SHIM_Standard> <TRANSM_Standard>
+##$AdjStudyStateCategory=( 3 )
+FREQ SHIM TRANSM
+##$AdjStudyStateAdjustPars=( 3, 1024 )
+<ACQ_BF> <PVM_StudyShim> <PVM_StudyRefAtt>
+##$AdjStudyStateTime=( 3, 21 )
+<09:02:11  7 Mar 2017> <09:02:20  7 Mar 2017> <09:02:47  7 Mar 2017>
+##$AdjStudyStateExpno=( 3 )
+6 6 6
+##$AdjStudyStateState=( 3 )
+adj_successful adj_successful adj_failed
+##$AdjStudyStateResultId=( 3, 65 )
+<> <2.16.756.5.5.100.4167689927.31845.1488902531.90> <
+2.16.756.5.5.100.4167689927.31845.1488902531.91>
+##$AdjStudyStateMethod=( 3, 128 )
+<AdjSf> <AdjShim> <AdjRefG>
+##$AdjStudyStateMethodContext=( 3, 128 )
+<> <> <>
+##$AdjStudyStateHwChainNdxs=( 3 )
+(0, 0) (0, 1) (1, 0)
+##$AdjStudyStateHwChains=( 1 )
+((SHIM_CHAIN, -1), <SHIM_BGA12S.399289>)
+##$AdjStudyListConfigTime=1190094339
+##END=

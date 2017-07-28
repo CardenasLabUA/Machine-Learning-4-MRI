@@ -1,0 +1,45 @@
+##TITLE=Parameter List
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=pacosta
+$$ Sat Apr  1 17:38:46 2017 MST (UT-7h)  pacosta
+$$ /opt/PV51/data/pacosta/nmr/Acosta_20170401_Isovue_real.GM1/subject
+##$SUBJECT_version_nr=2
+##$SUBJECT_id=( 60 )
+<Acosta_20170401_Isovue_real>
+##$SUBJECT_patient_instance_uid=( 65 )
+<2.16.756.5.5.100.4167689927.28672.1491093514.2943>
+##$SUBJECT_name_string=( 64 )
+<Acosta_20170401_Isovue_pH800_real>
+$$ @vis= SUBJECT_version_nr SUBJECT_id SUBJECT_patient_instance_uid
+##$SUBJECT_name=(<>, <Acosta_20170401_Isovue_pH800_real>)
+##$SUBJECT_dbirth=( 12 )
+<>
+##$SUBJECT_type=Human
+##$SUBJECT_sex=( 8 )
+<female>
+$$ @vis= SUBJECT_name_string SUBJECT_name SUBJECT_dbirth SUBJECT_type
+##$SUBJECT_sex_human=Female
+##$SUBJECT_study_name=( 64 )
+<PCA Phase 3>
+##$SUBJECT_study_nr=1
+##$SUBJECT_study_instance_uid=( 65 )
+<2.16.756.5.5.100.4167689927.28672.1491093514.2944>
+$$ @vis= SUBJECT_sex SUBJECT_sex_human SUBJECT_study_name SUBJECT_study_nr
+##$SUBJECT_size=0.001
+##$SUBJECT_weight=5
+##$SUBJECT_pos_valid=Yes
+$$ @vis= SUBJECT_study_instance_uid SUBJECT_size SUBJECT_weight
+##$SUBJECT_location=( 64 )
+<acosta>
+##$SUBJECT_entry=SUBJ_ENTRY_HeadFirst
+##$SUBJECT_position=SUBJ_POS_Supine
+##$SUBJECT_date=( 21 )
+<17:38:34  1 Apr 2017>
+$$ @vis= SUBJECT_pos_valid SUBJECT_location SUBJECT_entry SUBJECT_position
+##$SUBJECT_abs_date=1491093514
+##$SUBJECT_study_coil_config_file=( 512 )
+<Default_QuadTransceiver_1H_1000W>
+$$ @vis= SUBJECT_date SUBJECT_abs_date SUBJECT
+##END=

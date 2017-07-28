@@ -1,0 +1,35 @@
+##TITLE=Parameter List
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=pacosta
+$$ Wed Jan 18 20:13:21 2017 MST (UT-7h)  pacosta
+$$ /opt/PV51/data/pacosta/nmr/Acosta_20171801_Isovue_pH660.FB1/AdjStatePerStudy
+##$AdjStudyStateCompleted=Yes
+##$AdjStudyStateResetNdx=0
+##$AdjStudyStateAdjName=( 3, 128 )
+<FREQ_Standard> <SHIM_Standard> <TRANSM_Standard>
+##$AdjStudyStateCategory=( 3 )
+FREQ SHIM TRANSM
+##$AdjStudyStateAdjustPars=( 3, 1024 )
+<ACQ_BF> <PVM_StudyShim> <PVM_StudyRefAtt>
+##$AdjStudyStateTime=( 3, 21 )
+<20:06:52 18 Jan 2017> <20:07:05 18 Jan 2017> <20:07:34 18 Jan 2017>
+##$AdjStudyStateExpno=( 3 )
+1 1 1
+##$AdjStudyStateState=( 3 )
+adj_successful adj_successful adj_successful
+##$AdjStudyStateResultId=( 3, 65 )
+<> <2.16.756.5.5.100.4167689927.1318.1484795212.177> <
+2.16.756.5.5.100.4167689927.1318.1484795212.178>
+##$AdjStudyStateMethod=( 3, 128 )
+<AdjSf> <AdjShim> <AdjRefG>
+##$AdjStudyStateMethodContext=( 3, 128 )
+<> <> <>
+##$AdjStudyStateHwChainNdxs=( 3 )
+(0, 0) (0, 1) (1, 1)
+##$AdjStudyStateHwChains=( 2 )
+((SHIM_CHAIN, -1), <SHIM_BGA12S.399289>) ((TRANS_CHAIN, -2), <
+Default_Transceiver_1H_1000W -2 2 2 2 1 1 1H  1168442285>)
+##$AdjStudyListConfigTime=1190094339
+##END=

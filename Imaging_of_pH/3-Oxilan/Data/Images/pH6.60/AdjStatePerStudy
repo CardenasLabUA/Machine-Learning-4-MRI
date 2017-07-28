@@ -1,0 +1,49 @@
+##TITLE=Parameter List
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=jdegrand
+$$ Thu Mar 30 20:39:21 2017 MST (UT-7h)  jdegrand
+$$ /opt/PV51/data/jdegrand/nmr/degrandchamp_20170330_oxilan_pH660.GK1/AdjStatePerStudy
+##$AdjStudyStateCompleted=Yes
+##$AdjStudyStateResetNdx=7
+##$AdjStudyStateAdjName=( 10, 128 )
+<FREQ_Standard> <SHIM_Standard> <FREQ_Standard> <SHIM_Standard> <FREQ_Standard
+> <SHIM_Standard> <TRANSM_Standard> <FREQ_Standard> <SHIM_Standard> <
+TRANSM_Standard>
+##$AdjStudyStateCategory=( 10 )
+FREQ SHIM FREQ SHIM FREQ SHIM TRANSM FREQ SHIM TRANSM
+##$AdjStudyStateAdjustPars=( 10, 1024 )
+<ACQ_BF> <PVM_StudyShim> <ACQ_BF> <PVM_StudyShim> <ACQ_BF> <PVM_StudyShim> <
+PVM_StudyRefAtt> <ACQ_BF> <PVM_StudyShim> <PVM_StudyRefAtt>
+##$AdjStudyStateTime=( 10, 21 )
+<17:45:50 30 Mar 2017> <17:45:58 30 Mar 2017> <17:46:18 30 Mar 2017> <
+17:46:27 30 Mar 2017> <17:55:22 30 Mar 2017> <17:55:37 30 Mar 2017> <17:56:07 
+30 Mar 2017> <19:57:20 30 Mar 2017> <19:57:35 30 Mar 2017> <19:58:06 30 Mar 
+2017>
+##$AdjStudyStateExpno=( 10 )
+1 1 1 1 1 1 1 1 1 1
+##$AdjStudyStateState=( 10 )
+adj_successful adj_failed adj_successful adj_failed adj_successful 
+adj_successful adj_successful adj_successful adj_successful adj_successful
+##$AdjStudyStateResultId=( 10, 65 )
+<> <2.16.756.5.5.100.4167689927.29960.1490921150.50> <> <
+2.16.756.5.5.100.4167689927.29960.1490921178.64> <> <
+2.16.756.5.5.100.4167689927.29960.1490921722.83> <
+2.16.756.5.5.100.4167689927.29960.1490921722.84> <> <
+2.16.756.5.5.100.4167689927.29960.1490929040.150> <
+2.16.756.5.5.100.4167689927.29960.1490929040.151>
+##$AdjStudyStateMethod=( 10, 128 )
+<AdjSf> <AdjShim> <AdjSf> <AdjShim> <AdjSf> <AdjShim> <AdjRefG> <AdjSf> <
+AdjShim> <AdjRefG>
+##$AdjStudyStateMethodContext=( 10, 128 )
+<> <> <> <> <> <> <> <> <> <>
+##$AdjStudyStateHwChainNdxs=( 10 )
+(0, 0) (0, 0) (0, 0) (0, 0) (0, 0) (0, 1) (1, 1) (2, 0) (2, 1) (3, 1)
+##$AdjStudyStateHwChains=( 4 )
+((SHIM_CHAIN, -1), <SHIM_BGA12S.399289>) ((TRANS_CHAIN, -2), <
+Default_QuadTransceiver_1H_1000W -2 2 2 2 1 1 1H  1168442285>) ((SHIM_CHAIN, 
+-1), <SHIM_BGA12S.399289>) ((TRANS_CHAIN, -2), <
+Default_QuadTransceiver_1H_1000W -2 2 2 2 1 1 1H  1168442285>)
+##$AdjStudyListConfigTime=1190094339
+##END=

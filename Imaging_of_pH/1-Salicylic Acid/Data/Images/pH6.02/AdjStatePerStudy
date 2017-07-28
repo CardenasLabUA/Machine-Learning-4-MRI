@@ -1,0 +1,38 @@
+##TITLE=Parameter List
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=acosta
+$$ Thu Sep 29 12:55:48 2016 MST (UT-7h)  acosta
+$$ /opt/PV51/data/acosta/nmr/Acosta_20162916_SA_pH602.DO1/AdjStatePerStudy
+##$AdjStudyStateCompleted=Yes
+##$AdjStudyStateResetNdx=2
+##$AdjStudyStateAdjName=( 5, 128 )
+<FREQ_Standard> <SHIM_Standard> <FREQ_Standard> <SHIM_Standard> <
+TRANSM_Standard>
+##$AdjStudyStateCategory=( 5 )
+FREQ SHIM FREQ SHIM TRANSM
+##$AdjStudyStateAdjustPars=( 5, 1024 )
+<ACQ_BF> <PVM_StudyShim> <ACQ_BF> <PVM_StudyShim> <PVM_StudyRefAtt>
+##$AdjStudyStateTime=( 5, 21 )
+<11:59:25 29 Sep 2016> <11:59:39 29 Sep 2016> <11:59:49 29 Sep 2016> <
+12:00:03 29 Sep 2016> <12:00:31 29 Sep 2016>
+##$AdjStudyStateExpno=( 5 )
+1 1 1 1 1
+##$AdjStudyStateState=( 5 )
+adj_successful adj_failed adj_successful adj_successful adj_successful
+##$AdjStudyStateResultId=( 5, 65 )
+<> <2.16.756.5.5.100.4167689927.635.1475175565.65> <> <
+2.16.756.5.5.100.4167689927.635.1475175589.79> <
+2.16.756.5.5.100.4167689927.635.1475175589.80>
+##$AdjStudyStateMethod=( 5, 128 )
+<AdjSf> <AdjShim> <AdjSf> <AdjShim> <AdjRefG>
+##$AdjStudyStateMethodContext=( 5, 128 )
+<> <> <> <> <>
+##$AdjStudyStateHwChainNdxs=( 5 )
+(0, 0) (0, 0) (0, 0) (0, 1) (1, 1)
+##$AdjStudyStateHwChains=( 2 )
+((SHIM_CHAIN, -1), <SHIM_BGA12S.399289>) ((TRANS_CHAIN, -2), <
+Default_Transceiver_1H_1000W -2 2 2 2 1 1 1H  1168442285>)
+##$AdjStudyListConfigTime=1190094339
+##END=

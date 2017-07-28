@@ -1,0 +1,45 @@
+##TITLE=Parameter List
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=jdegrand
+$$ Mon Mar 27 17:54:03 2017 MST (UT-7h)  jdegrand
+$$ /opt/PV51/data/jdegrand/nmr/degrandchamp_20170327_oxilan_ph740.GH1/subject
+##$SUBJECT_version_nr=2
+##$SUBJECT_id=( 60 )
+<degrandchamp_20170327_oxilan_ph740>
+##$SUBJECT_patient_instance_uid=( 65 )
+<2.16.756.5.5.100.4167689927.1822.1490662432.2895>
+##$SUBJECT_name_string=( 64 )
+<degrandchamp_20170327_oxilan_pH740>
+$$ @vis= SUBJECT_version_nr SUBJECT_id SUBJECT_patient_instance_uid
+##$SUBJECT_name=(<>, <degrandchamp_20170327_oxilan_pH740>)
+##$SUBJECT_dbirth=( 12 )
+<>
+##$SUBJECT_type=Human
+##$SUBJECT_sex=( 8 )
+<female>
+$$ @vis= SUBJECT_name_string SUBJECT_name SUBJECT_dbirth SUBJECT_type
+##$SUBJECT_sex_human=Female
+##$SUBJECT_study_name=( 64 )
+<pca phase 4>
+##$SUBJECT_study_nr=1
+##$SUBJECT_study_instance_uid=( 65 )
+<2.16.756.5.5.100.4167689927.1822.1490662432.2896>
+$$ @vis= SUBJECT_sex SUBJECT_sex_human SUBJECT_study_name SUBJECT_study_nr
+##$SUBJECT_size=0.001
+##$SUBJECT_weight=5
+##$SUBJECT_pos_valid=Yes
+$$ @vis= SUBJECT_study_instance_uid SUBJECT_size SUBJECT_weight
+##$SUBJECT_location=( 64 )
+<acosta>
+##$SUBJECT_entry=SUBJ_ENTRY_HeadFirst
+##$SUBJECT_position=SUBJ_POS_Supine
+##$SUBJECT_date=( 21 )
+<17:53:52 27 Mar 2017>
+$$ @vis= SUBJECT_pos_valid SUBJECT_location SUBJECT_entry SUBJECT_position
+##$SUBJECT_abs_date=1490662432
+##$SUBJECT_study_coil_config_file=( 512 )
+<Default_QuadTransceiver_1H_1000W>
+$$ @vis= SUBJECT_date SUBJECT_abs_date SUBJECT
+##END=
